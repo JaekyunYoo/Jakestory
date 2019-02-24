@@ -10,3 +10,8 @@ Jake decides to take a class called Introduction to Potato studies. Potato studi
 seemed like an interesting topic because potatoes are delicious, and they are the most
 versatile food in the whole world. They can be frid, mashed, baked, made into alcohol, 
 and they can even power a clock. Potato studies would prove to be a great choice.
+
+Fortunatly computer science and potatoes are very simliar, sometimes people even can 
+even use poatoes as a substiute for CPUs. Infact UW Madison's educational website 
+"Canvas" occasionally uses these versitle vegtables. Jake would take up the oppotunity 
+to study computer science alongside potates.
